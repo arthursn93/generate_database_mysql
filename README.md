@@ -30,6 +30,6 @@ pip install mysql-connector-python faker
 
 
 ▶️ Como usar
-No Modify Run Configuration da solução código gerar_funcionario.py, execute o script com os parâmetros desejados:
+No Modify Run Configuration da solução gerar_funcionario.py, execute o script com os parâmetros desejados:
 
 --host localhost --user seu_usuario --password sua_senha --database seu_database --quantidade 100 --csv funcionarios.csv --html funcionarios.html
