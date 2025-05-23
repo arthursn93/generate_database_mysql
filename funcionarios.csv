@@ -1,0 +1,101 @@
+nome,email,cargo,departamento,salario,data_admissao,telefone,cidade,senioridade
+Srta. Isabelly Vieira,valentinaborges@example.org,Tech Lead,Engenharia,4051.75,2019-02-06,21 9541 7461,da Mata,Sênior
+Marcelo Cardoso,mcamargo@example.net,Scrum Master,Engenharia,9661.86,2024-06-08,(071) 9768 4399,Almeida da Mata,Pleno
+Asafe Teixeira,arthur77@example.com,DevOps,Financeiro,12165.27,2017-06-11,+55 31 2671-5175,Abreu de Aparecida,Sênior
+Isabela Brito,lorenamoraes@example.net,DBA,RH,10483.47,2022-11-10,51 8870 8225,Costa de Nascimento,Estagiário
+Ana Sophia Almeida,claramacedo@example.com,Scrum Master,Engenharia,14116.23,2024-12-01,(081) 8948 1323,Pinto,Estagiário
+Yan da Mata,zfreitas@example.com,Analista de Sistemas,RH,12826.43,2017-03-20,81 1866 2079,Cunha,Estagiário
+Alícia Rios,wcunha@example.org,Analista de Sistemas,TI Interno,12322.21,2019-10-05,(031) 3684 4430,Carvalho de Novaes,Júnior
+Sr. Henry Gabriel Moura,maria-lauranunes@example.net,Analista de Sistemas,Engenharia,10450.14,2015-09-05,81 2928 3236,Montenegro do Galho,Júnior
+Isabella da Cruz,ferreiracatarina@example.com,QA Engineer,RH,6719.35,2019-05-11,0500 392 1471,Siqueira,Júnior
+Maria Júlia Almeida,mariane36@example.com,QA Engineer,RH,13424.08,2022-09-28,+55 31 4934-0599,da Conceição,Sênior
+Júlia da Costa,emanuelpastor@example.net,Desenvolvedor,TI Interno,13889.71,2023-03-31,(071) 4099 6950,Vieira do Oeste,Sênior
+Maria Alice Vasconcelos,aparecidaluiz-fernando@example.net,DBA,RH,16366.82,2019-01-03,+55 (051) 6350-8344,da Paz,Júnior
+Dra. Maria Liz Cirino,pereirajoana@example.net,Desenvolvedor,RH,5159.25,2017-08-31,+55 84 1655-1229,Pastor de Fernandes,Pleno
+Isabela Siqueira,eborges@example.net,Desenvolvedor,RH,11037.08,2020-12-03,0900 706 0419,Castro de Goiás,Estagiário
+Anthony Gabriel Borges,lucas01@example.net,Desenvolvedor,RH,3466.8,2018-01-21,21 8086 7447,Monteiro,Estagiário
+Sr. Marcelo Martins,andraderaquel@example.com,Tech Lead,Financeiro,7084.32,2017-12-12,+55 (021) 4255-7404,Barros,Júnior
+Henry Sampaio,sampaionatalia@example.com,DBA,Engenharia,16483.74,2022-02-11,+55 (011) 8074-4800,da Cunha do Amparo,Pleno
+Olívia Macedo,moraesnina@example.org,Desenvolvedor,TI Interno,5914.08,2016-02-12,84 0740-1267,Machado da Prata,Sênior
+Srta. Maria Alice das Neves,maria53@example.org,Tech Lead,RH,17751.19,2017-05-19,(041) 7224 5188,Macedo,Estagiário
+João Felipe Pereira,luisada-rocha@example.com,DevOps,Engenharia,14827.24,2018-12-07,+55 (021) 8062-2834,Cavalcante,Sênior
+Luan Melo,viniciusaraujo@example.org,Tech Lead,Engenharia,14788.4,2019-04-26,0300-678-4390,Nogueira do Amparo,Sênior
+Benjamim Silva,esilveira@example.com,QA Engineer,Financeiro,12492.63,2016-11-12,+55 (041) 7112-8151,da Mata do Amparo,Pleno
+Elisa Caldeira,pmacedo@example.org,DevOps,Suporte,3574.99,2017-04-05,+55 51 9877 1329,Campos Verde,Sênior
+Alice Montenegro,liviavargas@example.net,QA Engineer,TI Interno,10937.15,2025-04-19,(081) 9210 7145,Alves da Mata,Sênior
+Rael Souza,bellaalmeida@example.org,QA Engineer,Engenharia,13165.4,2024-10-18,+55 (031) 5348-0136,Vieira da Mata,Júnior
+Caleb Dias,peixotobenjamim@example.org,Scrum Master,Engenharia,15501.0,2020-03-11,41 3912-6720,Vargas,Sênior
+Dra. Lorena Teixeira,ygarcia@example.org,DevOps,Financeiro,8304.88,2025-04-17,+55 31 6515-2592,da Mota,Pleno
+Laís Caldeira,natalia00@example.net,Scrum Master,Engenharia,13539.84,2024-03-27,+55 (071) 0207-3283,Nogueira,Estagiário
+João Gabriel Fernandes,icirino@example.net,Tech Lead,Engenharia,6125.74,2020-03-16,0300 904 6456,Silva das Pedras,Júnior
+Stephany Rodrigues,yasmin63@example.com,QA Engineer,Suporte,15907.57,2016-11-17,(041) 3878-7048,da Mota das Pedras,Estagiário
+Maitê Cavalcanti,henriquecarvalho@example.com,Desenvolvedor,TI Interno,15410.55,2020-08-20,+55 (051) 4587-6063,Cirino da Mata,Pleno
+Dr. Josué Pereira,alvesrhavi@example.com,Analista de Sistemas,Engenharia,2839.05,2023-12-02,(081) 8465 2970,Pereira,Sênior
+Lucas Gabriel Porto,enrico52@example.org,DBA,Suporte,12292.62,2024-06-09,+55 51 8199 8866,Fogaça,Júnior
+Leonardo Viana,gcamara@example.com,Scrum Master,Financeiro,14741.15,2020-10-03,(021) 7470 7942,Azevedo,Pleno
+Srta. Juliana Rios,znovais@example.net,DBA,Engenharia,13650.48,2022-07-30,+55 41 2471 4921,Rios de da Cunha,Júnior
+Yasmin Gonçalves,evelynbarbosa@example.com,Desenvolvedor,Suporte,2981.49,2023-08-22,0500 679 9135,das Neves,Júnior
+Sra. Mariane Cavalcante,fernandesvalentina@example.org,Analista de Sistemas,RH,4082.63,2020-11-29,+55 51 4666 2331,Rodrigues da Prata,Estagiário
+Oliver Mendonça,ana-luiza86@example.com,QA Engineer,Financeiro,14195.61,2020-10-26,0500-583-1509,Vasconcelos,Estagiário
+Joaquim Ramos,maysa10@example.com,DevOps,RH,5127.3,2017-11-02,84 0203-0438,Ribeiro,Estagiário
+Dr. José Miguel da Rosa,scasa-grande@example.com,Tech Lead,RH,8186.72,2023-09-21,0900-569-2687,Aragão,Júnior
+Francisco da Conceição,natalia65@example.net,Analista de Sistemas,TI Interno,5583.82,2021-10-09,+55 61 9608 6063,Rezende Verde,Júnior
+Henrique Peixoto,barroslavinia@example.org,Analista de Sistemas,Suporte,17679.18,2020-10-06,+55 84 2889-9131,Fogaça,Júnior
+Dra. Alice Sá,machadonicole@example.net,DBA,Engenharia,12837.72,2017-04-16,31 3912-4560,das Neves Grande,Estagiário
+Dr. Luiz Otávio Porto,silveirasophie@example.net,Tech Lead,Suporte,11161.75,2021-06-22,11 1406-4522,Guerra da Praia,Júnior
+Catarina Cassiano,leticia97@example.net,QA Engineer,TI Interno,16830.75,2022-10-10,+55 11 1996-6119,Caldeira,Estagiário
+Sr. Thales Correia,acamara@example.net,DevOps,Engenharia,8233.48,2020-09-11,+55 (031) 6647 1914,Mendes,Pleno
+Otávio Fogaça,viananina@example.com,DevOps,Financeiro,17410.71,2016-05-20,+55 (071) 0271 1195,Alves do Sul,Estagiário
+João Dias,rodriguesanthony@example.net,Scrum Master,RH,14459.58,2023-04-16,+55 51 8490 7492,Martins,Júnior
+Enzo Gabriel Abreu,ravi-luccaviana@example.org,Scrum Master,RH,7363.3,2022-10-05,+55 (011) 5541 1364,Carvalho do Norte,Júnior
+Ana Cecília da Mota,vitor-gabriel61@example.net,Scrum Master,Engenharia,6539.31,2023-08-02,(021) 0388-0128,Mendonça,Sênior
+Maria Laura Pires,cmonteiro@example.com,QA Engineer,RH,17848.18,2025-03-21,31 1982-1804,das Neves Alegre,Pleno
+Melina Pereira,xpastor@example.org,Desenvolvedor,RH,17862.93,2017-01-22,+55 84 5618 2804,Freitas,Sênior
+Sophia Souza,julia30@example.com,Desenvolvedor,Financeiro,4677.19,2023-01-02,+55 81 0576 2486,da Luz,Estagiário
+Ana Vitória da Costa,camposgael@example.net,DevOps,RH,6737.95,2019-04-09,+55 (084) 4547-1543,Borges do Campo,Estagiário
+Olívia Pereira,dcardoso@example.org,Desenvolvedor,Engenharia,9592.9,2025-02-24,(011) 5850-3533,Nascimento,Pleno
+Sra. Alícia Fogaça,garciasarah@example.net,Scrum Master,Engenharia,8012.87,2016-01-27,+55 41 7682 3798,Pacheco,Pleno
+Maria Sophia Monteiro,sampaioalice@example.org,Desenvolvedor,Engenharia,9308.16,2019-10-23,(031) 7035 1361,Pacheco das Pedras,Estagiário
+Davi Lucca Oliveira,wsousa@example.com,Desenvolvedor,Engenharia,3417.97,2021-04-22,+55 11 6214-7328,Almeida Paulista,Pleno
+Evelyn Novais,monteiroleticia@example.net,DevOps,Suporte,9456.09,2024-09-11,31 0429 6311,da Paz da Prata,Sênior
+Yuri Vargas,juan37@example.com,QA Engineer,Engenharia,12275.87,2015-12-09,+55 71 5647 4851,Ferreira,Sênior
+Sra. Elisa da Cruz,ana-luizanovais@example.net,Scrum Master,RH,13680.81,2017-04-23,+55 21 6685 5328,Fonseca,Estagiário
+Antony Casa Grande,tribeiro@example.com,Desenvolvedor,Engenharia,5553.34,2016-02-12,84 0881 5573,Novais,Estagiário
+Isadora Montenegro,naragao@example.org,DevOps,Engenharia,8845.1,2017-08-03,+55 84 2297 7880,Camargo de Ramos,Estagiário
+Isabela Câmara,ryanpeixoto@example.net,Desenvolvedor,TI Interno,9356.85,2018-01-14,+55 21 7615-3754,Azevedo,Sênior
+Lucas Andrade,marcela27@example.net,DBA,Engenharia,9678.9,2022-04-16,0300 968 8270,Mendonça,Sênior
+Maya Pereira,vargasana@example.net,Analista de Sistemas,Engenharia,11411.27,2019-02-14,(031) 5819 4583,Gomes da Prata,Pleno
+Sr. João Pedro Rocha,raul85@example.net,Scrum Master,Suporte,15701.71,2016-12-17,+55 (084) 9837-8880,Rodrigues,Pleno
+Nina Ramos,maria-vitoria33@example.net,Analista de Sistemas,Financeiro,8000.01,2020-02-22,+55 (051) 7152 3845,Teixeira,Pleno
+Maria Liz Novaes,benjamimsousa@example.net,QA Engineer,TI Interno,6218.8,2015-06-21,+55 (011) 6023-7230,Souza,Sênior
+Liam Cavalcante,jose-miguel44@example.org,Scrum Master,Financeiro,14709.6,2018-11-20,+55 (084) 0406 4249,Moraes,Júnior
+Eduarda Viana,sarahpacheco@example.org,QA Engineer,TI Interno,8742.86,2018-12-10,+55 11 6119 8253,Lima,Pleno
+Dr. Arthur Ramos,bernardorodrigues@example.net,Desenvolvedor,Financeiro,11946.31,2024-01-19,+55 84 6816 9421,Abreu,Júnior
+Ágatha Costa,isabella09@example.com,Tech Lead,Financeiro,11847.36,2017-10-09,0500-131-8210,Martins,Pleno
+Lucas Porto,afonseca@example.org,DBA,RH,14368.19,2023-11-10,(051) 4699 6889,Ramos,Júnior
+Alice Nascimento,hguerra@example.net,Analista de Sistemas,Suporte,11720.05,2022-06-27,+55 (031) 3417 9408,Pimenta da Praia,Pleno
+Cauê Viana,rochaenzo@example.com,Scrum Master,RH,8369.27,2018-01-16,(081) 2316-4485,Monteiro,Estagiário
+Thiago Barbosa,oaraujo@example.org,Analista de Sistemas,RH,7456.75,2022-01-25,+55 (071) 9214 8232,Montenegro da Prata,Pleno
+Ravi Pimenta,wpereira@example.com,Analista de Sistemas,Suporte,13621.5,2023-03-28,+55 51 1712 9386,Almeida de da Mata,Júnior
+Srta. Natália Nunes,waparecida@example.net,Analista de Sistemas,Engenharia,14755.99,2019-02-03,71 0585-5115,Mendes de Monteiro,Júnior
+Bento Marques,josecastro@example.org,Desenvolvedor,Suporte,5253.13,2024-06-25,+55 (031) 5372-5745,Moura de Goiás,Júnior
+Benjamim Monteiro,jda-costa@example.org,Analista de Sistemas,Engenharia,12328.08,2025-03-13,31 2578 2356,Mendonça,Estagiário
+Eduarda Cunha,yuri58@example.com,Desenvolvedor,RH,14198.95,2020-02-11,31 9117 3365,Nunes,Júnior
+Apollo da Paz,rebecada-rosa@example.com,DBA,Suporte,10461.48,2020-10-24,71 5817 1955,Jesus Alegre,Júnior
+Vitor Azevedo,henrysousa@example.org,Scrum Master,TI Interno,5810.09,2020-04-05,+55 71 7124 7168,Câmara do Norte,Sênior
+Luiz Miguel Rocha,eloah94@example.com,Analista de Sistemas,TI Interno,17883.32,2017-12-06,+55 61 0202-8858,Santos Paulista,Sênior
+Maria Sophia Câmara,pmoreira@example.com,Tech Lead,Engenharia,10460.25,2016-02-26,+55 61 2455-1728,Cardoso,Júnior
+Sra. Ayla Cavalcante,anna-lizalves@example.com,Analista de Sistemas,Financeiro,5763.28,2024-01-16,+55 81 1320 6619,Aparecida da Praia,Sênior
+Bruno Marques,baragao@example.org,QA Engineer,TI Interno,5723.12,2022-04-13,(071) 0140 4534,Pastor de Castro,Júnior
+Pedro Miguel Costa,carvalhomiguel@example.net,DevOps,TI Interno,7473.75,2020-04-03,41 5964-3935,da Mata,Sênior
+Maria Vitória Nogueira,clarice60@example.net,Analista de Sistemas,Suporte,5555.62,2021-09-03,+55 (051) 6599 0685,Pires,Júnior
+Ayla Araújo,ifarias@example.com,DBA,Financeiro,6594.72,2024-11-15,+55 (081) 0379-9460,Andrade,Estagiário
+Ágatha Lima,alexia20@example.org,QA Engineer,RH,14022.61,2024-07-28,(051) 2530 9842,Oliveira,Sênior
+Cecilia da Mata,allanamonteiro@example.com,Desenvolvedor,TI Interno,13085.16,2021-05-27,0900-430-8911,Melo,Pleno
+Ana Júlia Borges,icirino@example.org,QA Engineer,Engenharia,12289.53,2018-02-03,+55 31 2538 7311,Azevedo,Pleno
+Antony Cassiano,maria-isis13@example.net,QA Engineer,Financeiro,12451.93,2019-02-04,(061) 3885-8633,da Costa,Sênior
+Evelyn Ramos,valentinaabreu@example.net,Scrum Master,Financeiro,15022.57,2022-02-13,31 3421-6576,Garcia de Minas,Sênior
+Marcela Sampaio,freitasvinicius@example.com,Desenvolvedor,RH,2983.64,2019-05-25,+55 61 5844 4287,Castro,Sênior
+Sr. Davi Lucas Novais,mnovaes@example.com,Tech Lead,RH,13279.78,2024-10-31,(051) 1920 6223,Ferreira de Goiás,Júnior
+Kevin Machado,qvieira@example.org,Tech Lead,Engenharia,4547.83,2023-08-19,31 4988 2864,da Cunha,Júnior
+Manuela Teixeira,antony43@example.net,Tech Lead,Engenharia,15404.93,2021-04-30,(051) 8218 7060,Lopes,Estagiário
