@@ -34,13 +34,3 @@ No Modify Run Configuration do código gerar_funcionario.py, execute o script co
 
 ```bash
 --host localhost --user seu_usuario --password sua_senha --database seu_database --quantidade 100 --csv funcionarios.csv --html funcionarios.html
-
-Parâmetros:
-Parâmetro	Descrição
---host	Host do MySQL (ex: localhost)
---user	Usuário do banco
---password	Senha do usuário
---database	Nome do banco de dados
---quantidade	Quantidade de funcionários a gerar
---csv	(Opcional) Nome do arquivo CSV de saída
---html	(Opcional) Nome do arquivo HTML de saída
